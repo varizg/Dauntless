@@ -20,5 +20,5 @@ for ip in set1: #take subnets and extract them and append them to allips and cou
         
 totalips = allips.__len__()
     
-print("total number of IP addresses:" + str(totalips))
+#print("total number of IP addresses:" + str(totalips))
 
